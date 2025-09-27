@@ -14,6 +14,8 @@ Latest Visual Redisitributable https://aka.ms/vs/17/release/vc_redist.x64.exe
 After Starting a new game, MCM recorder will run. Due to variances in systems some may be "too fast" and sexlabs doesnt finish before MCM recorder expects to make changes. As such please click install sexlabs after seeing that MCM recorder is finished and should you desire it, enable auto freecam or other settings. 
 Predownload files (highly recommended to place these wherever your downloads will be such as ODLS\downloads)
 
+Community Shaders' latest update includes new upscaling. please press end and go to that option and choose the option that best applies to your system. FSR = AMD/Open DLSS/DLAA = Nvidia XeSS=Intel Dedicated. 
+
 If any characters appear slightly stretched or distorted, they likely have a bad OBODY preset applied to them. I recommend adding their name to the Obody black list. 
 
 (en)(SE)Thief 1.9.0.3.7z - https://www.loverslab.com/files/file/4027-thief/ (mirror links in the 1.9+ text file)
